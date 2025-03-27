@@ -3,7 +3,7 @@
   "name": "Concentab",
   "version": "1.1",
   "icons": {
-    "32": "focus.png"
+    "64": "icon.png"
   },
   "description": "Manages tabs based on configured sites",
   "permissions": ["tabs", "storage"],
